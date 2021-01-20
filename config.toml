@@ -1,0 +1,13 @@
+baseURL = "https://zhxxch.github.io/"
+languageCode = "zh-cn"
+title = "阵雪初"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "GitHub", URL = "https://github.com/zhxxch/"}
+  ]
+
+[params]
+  description = "github.com/zhxxch"
+  themeColor = "theme-base-09"
